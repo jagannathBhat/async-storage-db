@@ -1,6 +1,6 @@
 # async-storage-db
 
-A simple, asynchronous, unencrypted, persistent, JSON based JavaScript database for React Native.
+A simple, asynchronous, unencrypted, persistent, JSON based JavaScript database for React Native. Developed by combining [PouchDB]()https://pouchdb.com/ and [Async Storage](https://react-native-async-storage.github.io/async-storage).
 
 ## Installation
 
