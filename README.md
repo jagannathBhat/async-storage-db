@@ -84,7 +84,7 @@ db.post({ foo: 'bar' })
 	})
 ```
 
-**Example (creating without ID / updating)**:
+**Example (creating with ID / updating)**:
 
 ```js
 db.post({ _id: 'test_doc', foo: 'bar' })
