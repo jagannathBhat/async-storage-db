@@ -2,7 +2,7 @@
 
 A simple, asynchronous, unencrypted, persistent, JSON based JavaScript database for React Native.
 
-This package is depreceated. Please find similar packages in https://reactnative.directory/
+This package is deprecated. Please find similar packages in https://reactnative.directory/
 
 ## Installation
 
